@@ -5,10 +5,10 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import './index.css'
+import './index.css';
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/myPortotfolio/",
     element: <App />,
   },
 
